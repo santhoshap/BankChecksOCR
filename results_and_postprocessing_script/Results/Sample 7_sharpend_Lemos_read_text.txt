@@ -1,0 +1,6 @@
+[1] amountWord: Four Thousand Two hundred Sixty Seven and Dollars
+[2] amountNumber: ..........4,25770
+[3 i] date: 10/23/2020
+[4] validPeriod: 90
+[5] ABArouting: 
+[6] signature: Signature Exists

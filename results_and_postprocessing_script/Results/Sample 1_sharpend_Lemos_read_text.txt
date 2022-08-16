@@ -1,0 +1,6 @@
+[1] amountWord: EIGHT SEVEN HUNDRED seventeen DOLLARS fifty
+[2] amountNumber: 
+[3 i] date: 11/18/11
+[4] validPeriod: 
+[5] ABArouting: 2788
+[6] signature: Signature Exists

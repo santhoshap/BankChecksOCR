@@ -1,0 +1,6 @@
+[1] amountWord: Eight Thousand Nine Hundred Seventy Five Dollars and Sixty One Cents
+[2] amountNumber: 48,95.61
+[3 i] date: 10/202020
+[4] validPeriod: 130 3
+[5] ABArouting: 
+[6] signature: Signature Exists

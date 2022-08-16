@@ -1,0 +1,6 @@
+[1] amountWord: Eight Hundred Sixty and dollars
+[2] amountNumber: 286028
+[3 i] date: 10/16/2020
+[4] validPeriod: 90
+[5] ABArouting: 20
+[6] signature: Signature Exists

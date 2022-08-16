@@ -1,0 +1,6 @@
+[1] amountWord: TWO THOUSAND ONE HUNDRED EIGHTY six AND
+[2] amountNumber: 2,18632
+[3 i] date: 1023-2020
+[4] validPeriod: 
+[5] ABArouting: 38
+[6] signature: Signature Exists

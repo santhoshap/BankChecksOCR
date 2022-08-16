@@ -1,0 +1,6 @@
+[1] amountWord: Twenty thousand one hundred eight and Dollars
+[2] amountNumber: 27156.53
+[3 i] date: 091102020
+[4] validPeriod: 
+[5] ABArouting: 107142388142
+[6] signature: Signature Exists

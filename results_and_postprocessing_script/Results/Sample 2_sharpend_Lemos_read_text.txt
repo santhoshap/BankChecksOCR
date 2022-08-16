@@ -1,0 +1,6 @@
+[1] amountWord: fourteen THOUSAND SIX HUNDRED DOLLARS AND CENTS
+[2] amountNumber: 14,600.00
+[3 i] date: 03
+[4] validPeriod: 
+[5] ABArouting: 0000
+[6] signature: Signature Exists
